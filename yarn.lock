@@ -3260,10 +3260,10 @@
   resolved "https://registry.yarnpkg.com/@spectrum-css/modal/-/modal-3.0.0.tgz#a16ea2cd4ee8be85ef7ea32746b8e6294af3de18"
   integrity sha512-AgPRe85XJVvjqIwYiX1ESjfrWZ3spwlQIvVdxyuTvVjO2A1IR3O+PwMc9TXXb+3wjbXa4S4TRHw2IJotcZf+Lg==
 
-"@spectrum-css/picker@1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@spectrum-css/picker/-/picker-1.0.0.tgz#5758a128da081becd425b8d9433b24541f12b4b3"
-  integrity sha512-aSoin2SVYl5W2R3nFp+V/Er6rAJUnwygO4E3g/tfDuImq8p5U3FKZj4sggSqfuD2U1PIwNSwX0D1RdxuGXsnUQ==
+"@spectrum-css/picker@1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@spectrum-css/picker/-/picker-1.0.1.tgz#98991198576d26bd14160824e7b6f3c278ff930b"
+  integrity sha512-Rv4/UBOdNW1gs7WVBCJnPD5VFly8MqP++psDX6kcugUIcfJy0GC3acvElotmKRlCDk8Qxks2W2A0jKeSgphTmA==
 
 "@spectrum-css/popover@3.0.0":
   version "3.0.0"
