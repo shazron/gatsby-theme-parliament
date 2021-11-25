@@ -99,7 +99,7 @@
     "path-browserify": "^1.0.1",
     "penpal": "^6.1.0",
     "postcss": "^8.3.6",
-    "preact": "^10.5.12",
+    "preact": "^10.6.1",
     "preact-render-to-string": "^5.1.16",
     "prism-react-renderer": "^1.2.0",
     "prop-types": "^15.7.2",
