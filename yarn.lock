@@ -1253,10 +1253,10 @@
     core-js-pure "^3.15.0"
     regenerator-runtime "^0.13.4"
 
-"@babel/runtime@^7.10.0", "@babel/runtime@^7.10.2", "@babel/runtime@^7.11.2", "@babel/runtime@^7.12.5", "@babel/runtime@^7.13.10", "@babel/runtime@^7.14.0", "@babel/runtime@^7.14.6", "@babel/runtime@^7.14.8", "@babel/runtime@^7.7.2", "@babel/runtime@^7.7.7", "@babel/runtime@^7.8.4", "@babel/runtime@^7.9.2":
-  version "7.15.3"
-  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.15.3.tgz#2e1c2880ca118e5b2f9988322bd8a7656a32502b"
-  integrity sha512-OvwMLqNXkCXSz1kSm58sEsNuhqOx/fKpnUnKnFB5v8uDda5bLNEHNgKPvhDN6IU0LDcnHQ90LlJ0Q6jnyBSIBA==
+"@babel/runtime@^7.10.0", "@babel/runtime@^7.10.2", "@babel/runtime@^7.11.2", "@babel/runtime@^7.12.5", "@babel/runtime@^7.13.10", "@babel/runtime@^7.14.0", "@babel/runtime@^7.14.6", "@babel/runtime@^7.14.8", "@babel/runtime@^7.15.4", "@babel/runtime@^7.7.2", "@babel/runtime@^7.7.7", "@babel/runtime@^7.8.4", "@babel/runtime@^7.9.2":
+  version "7.16.3"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.16.3.tgz#b86f0db02a04187a3c17caa77de69840165d42d5"
+  integrity sha512-WBwekcqacdY2e9AF/Q7WLFUWmdJGJTkbjqTjoMDgXkVZ3ZRUvOPsLb5KdwISoQVsbP+DQzVZW4Zhci0DvpbNTQ==
   dependencies:
     regenerator-runtime "^0.13.4"
 
@@ -8698,12 +8698,12 @@ gatsby-core-utils@^2.12.0, gatsby-core-utils@^2.2.0-next.0, gatsby-core-utils@^2
     tmp "^0.2.1"
     xdg-basedir "^4.0.0"
 
-gatsby-cypress@^1.12.0:
-  version "1.12.0"
-  resolved "https://registry.yarnpkg.com/gatsby-cypress/-/gatsby-cypress-1.12.0.tgz#2e782e58577a91c0f347c1904a11c0a46b4566c0"
-  integrity sha512-yCrWIad7WLxJFK8CQ2dfSptxiqvYoHhFu2ReheJefPtso7VNfHGkdxGlfhAXT7ZwH93l2cZK/WFN0TPlMqk+uQ==
+gatsby-cypress@^2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/gatsby-cypress/-/gatsby-cypress-2.3.0.tgz#cdbdacc06aa96cb8be857e71a373316007a24442"
+  integrity sha512-9Qh5A4smJKzJ1CT7rmp0Z2BCS0wn/EnT4G613Eq9274XXRbY24CTspMDUulMl8hrky6fq7IOwkOWbmrKrB9L5Q==
   dependencies:
-    "@babel/runtime" "^7.14.8"
+    "@babel/runtime" "^7.15.4"
 
 gatsby-graphiql-explorer@^1.9.0:
   version "1.9.0"
