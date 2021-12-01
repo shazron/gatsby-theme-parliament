@@ -90,7 +90,7 @@
     "gatsby-plugin-sharp": "^3.12.0",
     "gatsby-remark-copy-linked-files": "^4.9.0",
     "gatsby-remark-images-remote": "^1.1.0",
-    "gatsby-source-filesystem": "^3.12.0",
+    "gatsby-source-filesystem": "^4.3.0",
     "gatsby-source-gdocs2md": "^1.0.0",
     "gatsby-transformer-remark": "^4.9.0",
     "https-browserify": "^1.0.0",
