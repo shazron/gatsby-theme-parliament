@@ -3260,10 +3260,10 @@
   resolved "https://registry.yarnpkg.com/@spectrum-css/popover/-/popover-3.0.1.tgz#5863c1efc53f98f9aba2de9186666780041303fc"
   integrity sha512-LmOSj/yCwQQ9iGmCYnHiJsJR/HfPiGqI1Jl7pkKxBOCxYBMS/5+ans9vfCN2Qnd0eK7WSbfPg72S6mjye7db2Q==
 
-"@spectrum-css/progresscircle@1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@spectrum-css/progresscircle/-/progresscircle-1.0.1.tgz#ae072eb5ca3906a95334c7c5d619cf43175f7b90"
-  integrity sha512-ydMm5WLVyaAqxP7K4iKZD1xObOrCGKGh7Fps1YGW/jhdi4gBWk8rgvPzzVS4DTiy8QT3bnYSzyiLlOXi/+4S8A==
+"@spectrum-css/progresscircle@1.0.18":
+  version "1.0.18"
+  resolved "https://registry.yarnpkg.com/@spectrum-css/progresscircle/-/progresscircle-1.0.18.tgz#170c32e46fb9a364cd391169e63e1e13e69d92a4"
+  integrity sha512-JSqCVJm5nybwSKLylhnMmc18fKpVliDFTvWQ/1Mn+xGERYDGbkLqv369Ss/uLBZWuOyBBAnCAIpWXZH//k5niQ==
 
 "@spectrum-css/search@3.0.1":
   version "3.0.1"
@@ -15017,7 +15017,7 @@ pretty-format@^3.8.0:
   resolved "https://registry.yarnpkg.com/pretty-format/-/pretty-format-3.8.0.tgz#bfbed56d5e9a776645f4b1ff7aa1a3ac4fa3c385"
   integrity sha1-v77VbV6ad2ZF9LH/eqGjrE+jw4U=
 
-prism-react-renderer@^1.2.0:
+prism-react-renderer@1.2.1:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/prism-react-renderer/-/prism-react-renderer-1.2.1.tgz#392460acf63540960e5e3caa699d851264e99b89"
   integrity sha512-w23ch4f75V1Tnz8DajsYKvY5lF7H1+WvzvLUcF0paFxkTHSp42RS0H5CttdN2Q8RR3DRGZ9v5xD/h3n8C8kGmg==
