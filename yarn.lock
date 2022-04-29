@@ -4004,10 +4004,10 @@
   resolved "https://registry.yarnpkg.com/@spectrum-css/button/-/button-3.0.1.tgz#6db8c3e851baecd0f1c2d88fef37d49d01c6e643"
   integrity sha512-YXrBtjIYisk4Vaxnp0RiE4gdElQX04P2mc4Pi2GlQ27dJKlHmufYcF+kAqGdtiyK5yjdN/vKRcC8y13aA4rusA==
 
-"@spectrum-css/card@3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@spectrum-css/card/-/card-3.0.1.tgz#d81166e00ee5db825d340d18101b64bfdcdd70d4"
-  integrity sha512-Jjormvn5Ejv++iWf0jSaxfnEwCkJTlwpY42s5ec4FngJnJIrVzng8Ij17w9j9KsGuwVlQwULlbMPJ/0QpO1+jg==
+"@spectrum-css/card@4.0.20":
+  version "4.0.20"
+  resolved "https://registry.yarnpkg.com/@spectrum-css/card/-/card-4.0.20.tgz#8b9d1c7ec7a836abe1b28f0c9db6b31c0a9ebae7"
+  integrity sha512-Sxb3oLFtw/d35GK8q16OUYt09wgzf+kf3mokv//zW/4chZiMECeUBW5XDDDBmKpVKls6wcZeZVZtgmsfLBDDKg==
 
 "@spectrum-css/checkbox@3.0.1":
   version "3.0.1"
