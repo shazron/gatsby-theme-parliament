@@ -4026,10 +4026,10 @@
   dependencies:
     "@spectrum-css/vars" "^3.0.1"
 
-"@spectrum-css/icon@3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@spectrum-css/icon/-/icon-3.0.1.tgz#e300a6fc353c85c6b5d6e7a364408a940c31b177"
-  integrity sha512-cGFtIrcQ/7tthdkHK1npuEFiCdYVHLqwmLxghUYQw8Tb8KgJaw3OBO1tpjgsUizexNgu26BjVRIbGxNWuBXIHQ==
+"@spectrum-css/icon@3.0.23":
+  version "3.0.23"
+  resolved "https://registry.yarnpkg.com/@spectrum-css/icon/-/icon-3.0.23.tgz#95a5e1aa7fa0eace579449b3aaa7ec87c8c77f7f"
+  integrity sha512-HtH8M1+b2KxcOJjdaqqemp/Yx7TUBosHhlzuZcDxoG2OpSrg7LtkJfDyv+0qFELzB934k9JbiE4xVlHRzTcrZA==
 
 "@spectrum-css/inlinealert@1.0.0":
   version "1.0.0"
