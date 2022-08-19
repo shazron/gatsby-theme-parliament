@@ -3984,10 +3984,10 @@
   resolved "https://registry.yarnpkg.com/@spectrum-css/accordion/-/accordion-3.0.1.tgz#c82bd3cef913a67b52f34ad78e4c3f1451edad93"
   integrity sha512-ffhQLF1zZhXVTuae7/oFOldRPdI2eq/tiTDKwCP/YkxZ7/GBD+14/DkTaw3QenxViXhRkzB5PJHVNdtln4xhEg==
 
-"@spectrum-css/actionbutton@1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@spectrum-css/actionbutton/-/actionbutton-1.0.1.tgz#9c75da37ea6915919fb574c74bd60dacc03b6577"
-  integrity sha512-AUqtyNabHF451Aj9i3xz82TxS5Z6k1dttA68/1hMeU9kbPCSS4P6Viw3vaRGs9CSspuR8xnnhDgrq+F+zMy2Hw==
+"@spectrum-css/actionbutton@2.1.3":
+  version "2.1.3"
+  resolved "https://registry.yarnpkg.com/@spectrum-css/actionbutton/-/actionbutton-2.1.3.tgz#b52e101df79e79b61d5561f641de1796c44c579f"
+  integrity sha512-A8mSaR+Vd5OJ3PDUso1yN1TpgaWe3rEZRIA+3qBHTHb5SLjAzK9QSZ77Z11gRnGqfXxXscsLr31Go0xT5+kubw==
 
 "@spectrum-css/assetlist@3.0.1":
   version "3.0.1"
