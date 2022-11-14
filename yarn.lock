@@ -4066,10 +4066,10 @@
   resolved "https://registry.yarnpkg.com/@spectrum-css/progresscircle/-/progresscircle-1.0.1.tgz#ae072eb5ca3906a95334c7c5d619cf43175f7b90"
   integrity sha512-ydMm5WLVyaAqxP7K4iKZD1xObOrCGKGh7Fps1YGW/jhdi4gBWk8rgvPzzVS4DTiy8QT3bnYSzyiLlOXi/+4S8A==
 
-"@spectrum-css/search@3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@spectrum-css/search/-/search-3.0.1.tgz#7c22821f29dd40dc1ce59fa88af47976cced47bc"
-  integrity sha512-u2tJhaKvc6tZ2eg/SzzA5OpzHWT+q3Xi+wnqaAx9KSoxwuWBweyz8jKkYCMvXsWyMOC5hQGTbNDJ4ttc8myVMQ==
+"@spectrum-css/search@4.2.14":
+  version "4.2.14"
+  resolved "https://registry.yarnpkg.com/@spectrum-css/search/-/search-4.2.14.tgz#8c996f1fccd129c4d9421d1a95ab5c9f78f9fe49"
+  integrity sha512-3lhNFJOhD7OFgO63I4mfBUmdU4iLpfFPyTQWVsd0k//e8V6AQcvSl65uDbA05U/zX7Kwmr0sTH72BzLeuvN2Cg==
 
 "@spectrum-css/sidenav@3.0.1":
   version "3.0.1"
