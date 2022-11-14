@@ -4116,10 +4116,10 @@
   resolved "https://registry.yarnpkg.com/@spectrum-css/vars/-/vars-3.0.2.tgz#ea9062c3c98dfc6ba59e5df14a03025ad8969999"
   integrity sha512-vzS9KqYXot4J3AEER/u618MXWAS+IoMvYMNrOoscKiLLKYQWenaueakUWulFonToPd/9vIpqtdbwxznqrK5qDw==
 
-"@spectrum-css/well@3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@spectrum-css/well/-/well-3.0.1.tgz#1700c254986db146c86cf3d8bcd314ae5c9da417"
-  integrity sha512-r2FcQOH59xmNJsTlV/E6c0868S4V4sHFzLNAu5N9FhnniQusI7f8jn5fCxUyJ0FvD47oF88ODIdimx4KWAGWjw==
+"@spectrum-css/well@3.0.23":
+  version "3.0.23"
+  resolved "https://registry.yarnpkg.com/@spectrum-css/well/-/well-3.0.23.tgz#57f5293bd846be2268d868b5c72b638d09d3cd95"
+  integrity sha512-t+m1IPtS2jIluk2TejdejnXOwK+swiHFG5efmgUgHxEXVrtTXmqntpSWvEubx1unn5vg2f7Q7899z/L694c/Wg==
 
 "@swc/helpers@^0.3.6":
   version "0.3.8"
