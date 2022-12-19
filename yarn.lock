@@ -3999,10 +3999,10 @@
   resolved "https://registry.yarnpkg.com/@spectrum-css/breadcrumb/-/breadcrumb-3.0.1.tgz#b797a347d8069732efd947732d4266ce71c3a8b2"
   integrity sha512-qvY2jXf/CQmvZanQZjXoH4w2XlgV6GpQ2Ml5dCHXp5uFoXCcwVBRAXK7lcQ6SyKaEDeaQ2oAkM4zG+AGRu7TXQ==
 
-"@spectrum-css/button@3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@spectrum-css/button/-/button-3.0.1.tgz#6db8c3e851baecd0f1c2d88fef37d49d01c6e643"
-  integrity sha512-YXrBtjIYisk4Vaxnp0RiE4gdElQX04P2mc4Pi2GlQ27dJKlHmufYcF+kAqGdtiyK5yjdN/vKRcC8y13aA4rusA==
+"@spectrum-css/button@6.0.17":
+  version "6.0.17"
+  resolved "https://registry.yarnpkg.com/@spectrum-css/button/-/button-6.0.17.tgz#ec41fcdb1925a5278eb5fe9ea536ad3d529991cb"
+  integrity sha512-m23GdIshbmGuuk4BWnltv+YbIDND6AMUAfTiMkvSylMP7nZ9bsA0Dh8Co11ZNNUMm6KBIYavoz+RYO3w/EZrTw==
 
 "@spectrum-css/card@3.0.1":
   version "3.0.1"
