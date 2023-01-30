@@ -4056,10 +4056,10 @@
   resolved "https://registry.yarnpkg.com/@spectrum-css/picker/-/picker-1.0.1.tgz#98991198576d26bd14160824e7b6f3c278ff930b"
   integrity sha512-Rv4/UBOdNW1gs7WVBCJnPD5VFly8MqP++psDX6kcugUIcfJy0GC3acvElotmKRlCDk8Qxks2W2A0jKeSgphTmA==
 
-"@spectrum-css/popover@3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@spectrum-css/popover/-/popover-3.0.1.tgz#5863c1efc53f98f9aba2de9186666780041303fc"
-  integrity sha512-LmOSj/yCwQQ9iGmCYnHiJsJR/HfPiGqI1Jl7pkKxBOCxYBMS/5+ans9vfCN2Qnd0eK7WSbfPg72S6mjye7db2Q==
+"@spectrum-css/popover@6.0.13":
+  version "6.0.13"
+  resolved "https://registry.yarnpkg.com/@spectrum-css/popover/-/popover-6.0.13.tgz#2e78626961de550fc10d9765501e226a2e6753eb"
+  integrity sha512-39xzYNMkZ5QQBb573ZpV+uLKQg3T+jsGa1FEUlDbRw/mP73WxmNNGU/csK69L8cW6kyIdrgva8Kj/14yAFvOxg==
 
 "@spectrum-css/progresscircle@1.0.1":
   version "1.0.1"
