@@ -3979,10 +3979,10 @@
     escape-string-regexp "^2.0.0"
     lodash.deburr "^4.1.0"
 
-"@spectrum-css/accordion@3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@spectrum-css/accordion/-/accordion-3.0.1.tgz#c82bd3cef913a67b52f34ad78e4c3f1451edad93"
-  integrity sha512-ffhQLF1zZhXVTuae7/oFOldRPdI2eq/tiTDKwCP/YkxZ7/GBD+14/DkTaw3QenxViXhRkzB5PJHVNdtln4xhEg==
+"@spectrum-css/accordion@3.0.32":
+  version "3.0.32"
+  resolved "https://registry.yarnpkg.com/@spectrum-css/accordion/-/accordion-3.0.32.tgz#d2696f5ceeed3f098b764f489470e098480a0e4e"
+  integrity sha512-VJBcwn2MBtWuaUJ9vZpDFYPpiXcG+19N3zinknnJ2Ft3cs0bokhppSSCQb/UHaolZVAFRo2wyXfPd3x1ItO9Rw==
 
 "@spectrum-css/actionbutton@1.0.1":
   version "1.0.1"
