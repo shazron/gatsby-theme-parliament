@@ -65,7 +65,7 @@ __metadata:
     "@spectrum-css/progresscircle": 1.0.23
     "@spectrum-css/search": 4.2.12
     "@spectrum-css/sidenav": 3.0.24
-    "@spectrum-css/table": 4.0.19
+    "@spectrum-css/table": 4.0.28
     "@spectrum-css/tabs": 3.2.19
     "@spectrum-css/textfield": 3.2.4
     "@spectrum-css/tooltip": 3.1.18
@@ -5314,13 +5314,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@spectrum-css/table@npm:4.0.19":
-  version: 4.0.19
-  resolution: "@spectrum-css/table@npm:4.0.19"
+"@spectrum-css/table@npm:4.0.28":
+  version: 4.0.28
+  resolution: "@spectrum-css/table@npm:4.0.28"
   peerDependencies:
     "@spectrum-css/icon": ^3.0.21
     "@spectrum-css/vars": ^8.0.0
-  checksum: 6d9b1f2a9bf4ed0a4a3e3917b09444582711170ebe59eb04d93d6893a1ffc6506a73d84117fb4110820812776171f3d8fa1587c2f1ef3068bacd716b739584ac
+  checksum: 8df7f71c72c3c89df75f9568763e497cfbfadc78d4a057f2061a2e341d214ce957c52f5213b5addeac9019a6e8f897b4c76fbf8df71b910bac84f3bbf3056379
   languageName: node
   linkType: hard
 
