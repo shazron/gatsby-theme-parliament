@@ -69,7 +69,7 @@ __metadata:
     "@spectrum-css/tabs": 3.2.19
     "@spectrum-css/textfield": 3.2.4
     "@spectrum-css/tooltip": 3.1.18
-    "@spectrum-css/typography": 4.0.20
+    "@spectrum-css/typography": 4.0.27
     "@spectrum-css/underlay": 2.0.31
     "@spectrum-css/vars": 8.0.0
     "@spectrum-css/well": 3.0.22
@@ -5354,12 +5354,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@spectrum-css/typography@npm:4.0.20":
-  version: 4.0.20
-  resolution: "@spectrum-css/typography@npm:4.0.20"
+"@spectrum-css/typography@npm:4.0.27":
+  version: 4.0.27
+  resolution: "@spectrum-css/typography@npm:4.0.27"
   peerDependencies:
     "@spectrum-css/vars": ^8.0.0
-  checksum: 389dbf1ae191cd712c1539a94541b89d32d132b3589f8a0018212ab078266d1c83937101aad7a0868aea58b46ce22b3e00ed9b5ac7bdcf8476c48dabc52c8110
+  checksum: 4189a31b12544da9609fbcc9aede92362cdc63fe5c6ba39fed5fb9d0908a63b08ba7b901055f8e8a66d120f38e28553d63856de931952cebc81c732d86cb095f
   languageName: node
   linkType: hard
 
