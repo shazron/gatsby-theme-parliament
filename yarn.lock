@@ -1741,6 +1741,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@babel/runtime@npm:^7.20.13":
+  version: 7.21.0
+  resolution: "@babel/runtime@npm:7.21.0"
+  dependencies:
+    regenerator-runtime: ^0.13.11
+  checksum: 7b33e25bfa9e0e1b9e8828bb61b2d32bdd46b41b07ba7cb43319ad08efc6fda8eb89445193e67d6541814627df0ca59122c0ea795e412b99c5183a0540d338ab
+  languageName: node
+  linkType: hard
+
 "@babel/template@npm:^7.12.7, @babel/template@npm:^7.16.7, @babel/template@npm:^7.18.10, @babel/template@npm:^7.20.7":
   version: 7.20.7
   resolution: "@babel/template@npm:7.20.7"
@@ -6434,7 +6443,7 @@ __metadata:
     axe-core: ^4.4.3
     cypress: ^10.8.0
     cypress-axe: ^1.0.0
-    gatsby-cypress: ^2.23.0
+    gatsby-cypress: ^3.7.0
     husky: ^8.0.1
     lerna: ^5.5.1
     prettier: ^2.7.1
@@ -11880,15 +11889,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-cypress@npm:^2.23.0":
-  version: 2.25.0
-  resolution: "gatsby-cypress@npm:2.25.0"
+"gatsby-cypress@npm:^3.7.0":
+  version: 3.7.0
+  resolution: "gatsby-cypress@npm:3.7.0"
   dependencies:
-    "@babel/runtime": ^7.15.4
+    "@babel/runtime": ^7.20.13
   peerDependencies:
-    cypress: ^3.1.0
-    gatsby: ^4.0.0-next
-  checksum: 82a6392c00d791238ef8902f33c80ed0d027931e5d53f63949b7398088bba7748fa1a8b5d2185d1bc3af5d4d3de4fbb8d5445e777d9a1329b03e4f8369b5bfe3
+    cypress: ^9.0.0 || ^10.0.0
+    gatsby: ^5.0.0-next
+  checksum: 21fbec07151f007390c188d2181eeeee51eeb7bf5030dd8d1bcff201954f86a79ff86d0e173398e836d27ada37c9fb5ba856a5119e999a2f18f9cc3e0c685f31
   languageName: node
   linkType: hard
 
