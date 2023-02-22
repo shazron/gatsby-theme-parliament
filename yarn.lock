@@ -53,7 +53,7 @@ __metadata:
     "@spectrum-css/button": 6.0.13
     "@spectrum-css/card": 5.0.0
     "@spectrum-css/checkbox": 3.1.3
-    "@spectrum-css/dialog": 6.0.15
+    "@spectrum-css/dialog": 6.0.28
     "@spectrum-css/divider": 1.0.27
     "@spectrum-css/icon": 3.0.23
     "@spectrum-css/inlinealert": 4.0.13
@@ -5189,19 +5189,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@spectrum-css/dialog@npm:6.0.15":
-  version: 6.0.15
-  resolution: "@spectrum-css/dialog@npm:6.0.15"
+"@spectrum-css/dialog@npm:6.0.28":
+  version: 6.0.28
+  resolution: "@spectrum-css/dialog@npm:6.0.28"
   peerDependencies:
-    "@spectrum-css/button": ^6.0.1
-    "@spectrum-css/buttongroup": ^5.0.1
-    "@spectrum-css/closebutton": ^1.2.1
-    "@spectrum-css/divider": ^1.0.14
-    "@spectrum-css/icon": ^3.0.13
-    "@spectrum-css/modal": ^3.0.12
-    "@spectrum-css/underlay": ^2.0.21
+    "@spectrum-css/button": ^6.0.0 || ^7.0.0 || ^8.0.0 || ^9.0.0
+    "@spectrum-css/buttongroup": ^5.0.0 || ^6.0.0
+    "@spectrum-css/closebutton": ^1.0.0 || ^2.0.0 || ^3.0.0
+    "@spectrum-css/divider": ^1.0.0 || ^2.0.0
+    "@spectrum-css/icon": ^3.0.0
+    "@spectrum-css/modal": ^3.0.0
+    "@spectrum-css/underlay": ^2.0.0
     "@spectrum-css/vars": ^8.0.0
-  checksum: f45a322a30eb90477565bad61b3a2c92d9afeecba086c5e3d3d1ea309de70fe01e8e6c91119d14c3955d9bdbff336226b22b6d9ee721b4d6a6ab976cb8bfdaaf
+  checksum: 7b489043418c2dcdabb4c6e057347ef7bfefa2a040b7508f256008cafb23eea5252327cf8f60c8e98d5df1d4a17bb88aa3d37d3c1d8868d2b1f6783fcf37d714
   languageName: node
   linkType: hard
 
