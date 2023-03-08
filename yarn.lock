@@ -61,7 +61,7 @@ __metadata:
     "@spectrum-css/menu": 4.0.4
     "@spectrum-css/modal": 3.0.23
     "@spectrum-css/picker": 1.2.12
-    "@spectrum-css/popover": 5.0.18
+    "@spectrum-css/popover": 6.0.21
     "@spectrum-css/progresscircle": 1.0.23
     "@spectrum-css/search": 4.2.12
     "@spectrum-css/sidenav": 3.0.24
@@ -5274,13 +5274,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@spectrum-css/popover@npm:5.0.18":
-  version: 5.0.18
-  resolution: "@spectrum-css/popover@npm:5.0.18"
+"@spectrum-css/popover@npm:6.0.21":
+  version: 6.0.21
+  resolution: "@spectrum-css/popover@npm:6.0.21"
   peerDependencies:
     "@spectrum-css/dialog": ^6.0.0
-    "@spectrum-css/vars": ^8.0.0
-  checksum: 368a94ae38dc59a83f48c178fb812bbef48dd8aaebfbdc8d8a47d7cd84304c966b795bf34db5d1c7300f430d78e977b51a4dd6319b23e2ff70acc54835246a52
+    "@spectrum-css/tokens": ^7.0.0
+  checksum: b0a8679501c35c9f50b451cc24b1af66a70a1f8f5e3be70506bfcf7dc3e1cf43ca25b4817b0b05e3bbadb694d5551a5898277dcd3c35d1280a756acb6222eddc
   languageName: node
   linkType: hard
 
