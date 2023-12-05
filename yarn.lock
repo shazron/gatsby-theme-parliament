@@ -58,7 +58,7 @@ __metadata:
     "@spectrum-css/badge": ^1.0.20
     "@spectrum-css/breadcrumb": 5.0.0
     "@spectrum-css/button": 6.0.13
-    "@spectrum-css/card": 5.0.0
+    "@spectrum-css/card": 6.2.1
     "@spectrum-css/checkbox": 3.1.3
     "@spectrum-css/contextualhelp": ^2.0.35
     "@spectrum-css/dialog": 6.0.15
@@ -4905,18 +4905,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@spectrum-css/card@npm:5.0.0":
-  version: 5.0.0
-  resolution: "@spectrum-css/card@npm:5.0.0"
+"@spectrum-css/card@npm:6.2.1":
+  version: 6.2.1
+  resolution: "@spectrum-css/card@npm:6.2.1"
   peerDependencies:
-    "@spectrum-css/actionbutton": ^1.1.13
-    "@spectrum-css/asset": ^3.0.20
-    "@spectrum-css/checkbox": ^3.1.1
-    "@spectrum-css/icon": ^3.0.21
-    "@spectrum-css/quickaction": ^3.0.24
-    "@spectrum-css/typography": ^4.0.18
-    "@spectrum-css/vars": ^8.0.0
-  checksum: 54b70a1427540288ffed46f0e407646db92e810fe2755cc15e0359c7dfc3536799cbfae9d843e0a5262fa6d41418927a17c088d72a45eddf1d267ac77f41805e
+    "@spectrum-css/actionbutton": ">=5"
+    "@spectrum-css/asset": ">=3"
+    "@spectrum-css/checkbox": ">=7"
+    "@spectrum-css/icon": ">=4"
+    "@spectrum-css/quickaction": ">=3"
+    "@spectrum-css/tokens": ">=13"
+    "@spectrum-css/typography": ">=4 <=5"
+  checksum: 435e065474c795934be7d224903e004a637ffb36d78ec96136fa26acd932e4593f4f381119a44e7ef48aff8125d79e262e8084a7a71ca5e4a345328493c61776
   languageName: node
   linkType: hard
 
