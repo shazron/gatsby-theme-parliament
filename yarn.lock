@@ -66,7 +66,7 @@ __metadata:
     "@spectrum-css/icon": 3.0.23
     "@spectrum-css/inlinealert": 4.0.13
     "@spectrum-css/link": 3.1.23
-    "@spectrum-css/menu": 4.0.4
+    "@spectrum-css/menu": 5.2.1
     "@spectrum-css/modal": 3.0.23
     "@spectrum-css/picker": 1.2.12
     "@spectrum-css/popover": 5.0.18
@@ -4994,14 +4994,26 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@spectrum-css/menu@npm:4.0.4":
-  version: 4.0.4
-  resolution: "@spectrum-css/menu@npm:4.0.4"
+"@spectrum-css/menu@npm:5.2.1":
+  version: 5.2.1
+  resolution: "@spectrum-css/menu@npm:5.2.1"
   peerDependencies:
-    "@spectrum-css/divider": ^1.0.23
-    "@spectrum-css/icon": ^3.0.21
-    "@spectrum-css/vars": ^8.0.0
-  checksum: f5f9d1ab45de05f53b49c6d090a3077934709325e270b214107c6c08d8786ee23b2ad5f0ea84aa36e73b953ddd7cfe0dc626ade5542f2dcc01212bc22186c7ce
+    "@spectrum-css/checkbox": ">=8"
+    "@spectrum-css/divider": ">=2"
+    "@spectrum-css/icon": ">=4"
+    "@spectrum-css/switch": ">=4"
+    "@spectrum-css/tokens": ">=13"
+    "@spectrum-css/tray": ">=2.1"
+  peerDependenciesMeta:
+    "@spectrum-css/checkbox":
+      optional: true
+    "@spectrum-css/divider":
+      optional: true
+    "@spectrum-css/switch":
+      optional: true
+    "@spectrum-css/tray":
+      optional: true
+  checksum: b789e548373e74114e6faeec29783cc76b1deebaa3c3e5368670aff9fa728f76da96d8c93bfb430f73316f92ce1c665c429fad5d263bfba7c12a892189a7331c
   languageName: node
   linkType: hard
 
