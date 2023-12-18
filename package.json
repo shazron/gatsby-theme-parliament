@@ -12,7 +12,7 @@
     "axe-core": "^4.6.3",
     "cypress": "^12.7.0",
     "cypress-axe": "^1.4.0",
-    "gatsby-cypress": "^3.7.0",
+    "gatsby-cypress": "^3.13.0",
     "husky": "^8.0.3",
     "lerna": "^6.5.1",
     "prettier": "^2.8.4",
