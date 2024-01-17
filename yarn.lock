@@ -69,7 +69,7 @@ __metadata:
     "@spectrum-css/menu": 4.0.4
     "@spectrum-css/modal": 3.0.23
     "@spectrum-css/picker": 1.2.12
-    "@spectrum-css/popover": 5.0.18
+    "@spectrum-css/popover": 6.1.0
     "@spectrum-css/progresscircle": 1.0.23
     "@spectrum-css/search": 4.2.12
     "@spectrum-css/sidenav": 3.0.24
@@ -5026,13 +5026,24 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@spectrum-css/popover@npm:5.0.18":
-  version: 5.0.18
-  resolution: "@spectrum-css/popover@npm:5.0.18"
+"@spectrum-css/popover@npm:6.1.0":
+  version: 6.1.0
+  resolution: "@spectrum-css/popover@npm:6.1.0"
   peerDependencies:
-    "@spectrum-css/dialog": ^6.0.0
-    "@spectrum-css/vars": ^8.0.0
-  checksum: 368a94ae38dc59a83f48c178fb812bbef48dd8aaebfbdc8d8a47d7cd84304c966b795bf34db5d1c7300f430d78e977b51a4dd6319b23e2ff70acc54835246a52
+    "@spectrum-css/alertdialog": ">=1"
+    "@spectrum-css/dialog": ">=9"
+    "@spectrum-css/divider": ">=2"
+    "@spectrum-css/menu": ">=5"
+    "@spectrum-css/overlay": ">=4"
+    "@spectrum-css/tokens": ">=13"
+  peerDependenciesMeta:
+    "@spectrum-css/divider":
+      optional: true
+    "@spectrum-css/menu":
+      optional: true
+    "@spectrum-css/overlay":
+      optional: true
+  checksum: e18f180a3ce3bac93977cbc3ab89b11223ae7d394bab9cacd05da879d64183fc37f4e2fb62c01ce87630b4a0f0479980363badf12b9ee41202768ce7208c6e08
   languageName: node
   linkType: hard
 
