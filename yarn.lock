@@ -80,7 +80,7 @@ __metadata:
     "@spectrum-css/typography": 4.0.20
     "@spectrum-css/underlay": 2.0.31
     "@spectrum-css/vars": 8.0.0
-    "@spectrum-css/well": 3.0.22
+    "@spectrum-css/well": 4.1.0
     algolia-html-extractor: ^0.0.1
     algoliasearch: ^4.14.2
     await-exec: ^0.1.2
@@ -5138,12 +5138,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@spectrum-css/well@npm:3.0.22":
-  version: 3.0.22
-  resolution: "@spectrum-css/well@npm:3.0.22"
+"@spectrum-css/well@npm:4.1.0":
+  version: 4.1.0
+  resolution: "@spectrum-css/well@npm:4.1.0"
   peerDependencies:
-    "@spectrum-css/vars": ^8.0.0
-  checksum: c1f6cffb17b4911ae0cd6bd497e10d3b04b17e146c502eb4d1d8f5f28de91bd295f1ed973f8b1e935c700ceab59c443791cf186af78e54df2af551420e009e29
+    "@spectrum-css/tokens": ">=13"
+  checksum: fccc91f5b6d8365240ef301390a8956a0fbf88281219b018908afd195cb30ceeae4cbc7cc8a793a1491227be663022391e13535de9067e84753aadb6ba914118
   languageName: node
   linkType: hard
 
