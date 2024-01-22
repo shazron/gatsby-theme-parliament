@@ -111,7 +111,7 @@ __metadata:
     jszip-utils: ^0.1.0
     lottie-web: ^5.9.6
     mdx-embed: ^1.0.0
-    mobx: ^6.6.2
+    mobx: ^6.12.0
     normalize-path: ^3.0.0
     os-browserify: ^0.3.0
     path-browserify: ^1.0.1
@@ -17525,7 +17525,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"mobx@npm:^6.3.2, mobx@npm:^6.6.2":
+"mobx@npm:^6.12.0":
+  version: 6.12.0
+  resolution: "mobx@npm:6.12.0"
+  checksum: 482914d39199cadc8808907a2b9dbc634c74534d6c6d6cb34984c199aa94665ce07e7d183c0e97d54f4b06c8e42fec0a48c79484f4bbeac04a4dfd0f160290c6
+  languageName: node
+  linkType: hard
+
+"mobx@npm:^6.3.2":
   version: 6.10.2
   resolution: "mobx@npm:6.10.2"
   checksum: 14d6f1db4e3a61c823510ea130229c96bd4958b77d81057ac1abc6a439703eaf3ea2289192ef205b4250d3adb1d83a439ad56d5e53f2b967c6e62a6bccc23d8a
