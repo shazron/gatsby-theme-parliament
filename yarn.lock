@@ -73,7 +73,7 @@ __metadata:
     "@spectrum-css/progresscircle": 1.0.23
     "@spectrum-css/search": 4.2.12
     "@spectrum-css/sidenav": 3.0.24
-    "@spectrum-css/table": 4.0.19
+    "@spectrum-css/table": 5.2.2
     "@spectrum-css/tabs": 3.2.19
     "@spectrum-css/textfield": 3.2.4
     "@spectrum-css/tooltip": 3.1.18
@@ -5250,13 +5250,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@spectrum-css/table@npm:4.0.19":
-  version: 4.0.19
-  resolution: "@spectrum-css/table@npm:4.0.19"
+"@spectrum-css/table@npm:5.2.2":
+  version: 5.2.2
+  resolution: "@spectrum-css/table@npm:5.2.2"
   peerDependencies:
-    "@spectrum-css/icon": ^3.0.21
-    "@spectrum-css/vars": ^8.0.0
-  checksum: 6d9b1f2a9bf4ed0a4a3e3917b09444582711170ebe59eb04d93d6893a1ffc6506a73d84117fb4110820812776171f3d8fa1587c2f1ef3068bacd716b739584ac
+    "@spectrum-css/button": ">=11"
+    "@spectrum-css/checkbox": ">=8"
+    "@spectrum-css/icon": ">=4"
+    "@spectrum-css/thumbnail": ">=5"
+    "@spectrum-css/tokens": ">=13"
+  peerDependenciesMeta:
+    "@spectrum-css/button":
+      optional: true
+    "@spectrum-css/checkbox":
+      optional: true
+    "@spectrum-css/thumbnail":
+      optional: true
+  checksum: 1cd4cbfa54884bc2e15813a7a004d59f5b430e70858a35c0c54f795e05a1cb5e561e7b7ab1898c639e35dc9969573ad75f5f3052cd9d6e1ba40b5c302360cba7
   languageName: node
   linkType: hard
 
