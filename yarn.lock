@@ -74,7 +74,7 @@ __metadata:
     "@spectrum-css/search": 4.2.12
     "@spectrum-css/sidenav": 3.0.24
     "@spectrum-css/table": 4.0.19
-    "@spectrum-css/tabs": 3.2.19
+    "@spectrum-css/tabs": 4.1.2
     "@spectrum-css/textfield": 3.2.4
     "@spectrum-css/tooltip": 3.1.18
     "@spectrum-css/typography": 4.0.20
@@ -5260,14 +5260,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@spectrum-css/tabs@npm:3.2.19":
-  version: 3.2.19
-  resolution: "@spectrum-css/tabs@npm:3.2.19"
+"@spectrum-css/tabs@npm:4.1.2":
+  version: 4.1.2
+  resolution: "@spectrum-css/tabs@npm:4.1.2"
   peerDependencies:
-    "@spectrum-css/menu": ^4.0.0
-    "@spectrum-css/picker": ^1.2.7
-    "@spectrum-css/vars": ^8.0.0
-  checksum: a80feccd45497e683d7d5e59b2d9947a38fbefca811102d8917d218636cbc74eff3866713c3d2def0f3b80726fdac8412ddb05eb7604561a1841fe465ce70f34
+    "@spectrum-css/icon": ">=4"
+    "@spectrum-css/menu": ">=5"
+    "@spectrum-css/picker": ">=6"
+    "@spectrum-css/tokens": ">=13"
+  peerDependenciesMeta:
+    "@spectrum-css/icon":
+      optional: true
+  checksum: 4800a809f927e1ff7c44a5be203b6ee30a20b5b919d8785090fb04cdb1c15be924bdf52704807cf34510864360f198aa3e281f9d15568a90b39d53841c9c29cd
   languageName: node
   linkType: hard
 
