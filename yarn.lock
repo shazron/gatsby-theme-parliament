@@ -71,7 +71,7 @@ __metadata:
     "@spectrum-css/picker": 1.2.12
     "@spectrum-css/popover": 5.0.18
     "@spectrum-css/progresscircle": 1.0.23
-    "@spectrum-css/search": 4.2.12
+    "@spectrum-css/search": 6.2.3
     "@spectrum-css/sidenav": 3.0.24
     "@spectrum-css/table": 4.0.19
     "@spectrum-css/tabs": 3.2.19
@@ -5229,15 +5229,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@spectrum-css/search@npm:4.2.12":
-  version: 4.2.12
-  resolution: "@spectrum-css/search@npm:4.2.12"
+"@spectrum-css/search@npm:6.2.3":
+  version: 6.2.3
+  resolution: "@spectrum-css/search@npm:6.2.3"
   peerDependencies:
-    "@spectrum-css/clearbutton": ^1.2.10
-    "@spectrum-css/icon": ^3.0.21
-    "@spectrum-css/textfield": ^3.2.2
-    "@spectrum-css/vars": ^8.0.0
-  checksum: 478e943868f0767588d1d58d5e5c1d8494f58a277b0b2ea6340ddc80445733fb335c1b72ce8de1aa15704776bc3ed1d518b7f60524d555c94244c119f61b50d7
+    "@spectrum-css/clearbutton": ">=5"
+    "@spectrum-css/icon": ">=4"
+    "@spectrum-css/textfield": ">=6"
+    "@spectrum-css/tokens": ">=13"
+  checksum: 8c5e39dbcb4bf7a6faa331d16040f5a98ee529a3d013055563107c259fa0f9378ae52df48254e962acc383bd344021633c192c2d2c56a27cba5c163ae06a328c
   languageName: node
   linkType: hard
 
