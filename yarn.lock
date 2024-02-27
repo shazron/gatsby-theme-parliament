@@ -68,7 +68,7 @@ __metadata:
     "@spectrum-css/link": 3.1.23
     "@spectrum-css/menu": 4.0.4
     "@spectrum-css/modal": 3.0.23
-    "@spectrum-css/picker": 1.2.12
+    "@spectrum-css/picker": 7.2.6
     "@spectrum-css/popover": 5.0.18
     "@spectrum-css/progresscircle": 1.0.23
     "@spectrum-css/search": 4.2.12
@@ -5198,15 +5198,22 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@spectrum-css/picker@npm:1.2.12":
-  version: 1.2.12
-  resolution: "@spectrum-css/picker@npm:1.2.12"
+"@spectrum-css/picker@npm:7.2.6":
+  version: 7.2.6
+  resolution: "@spectrum-css/picker@npm:7.2.6"
   peerDependencies:
-    "@spectrum-css/icon": ^3.0.21
-    "@spectrum-css/menu": ^4.0.0
-    "@spectrum-css/popover": ^5.0.0
-    "@spectrum-css/vars": ^8.0.0
-  checksum: 1b6b874041c028d0351e5f741fb121098f2aaa59e32d820c415def9a724d03ab27ec8307ca133888661b77efe51a1ca8456d46a99afdbe58311bb1cea54574a8
+    "@spectrum-css/helptext": ">=4"
+    "@spectrum-css/icon": ">=4"
+    "@spectrum-css/menu": ">=5"
+    "@spectrum-css/popover": ">=6"
+    "@spectrum-css/progresscircle": ">=2"
+    "@spectrum-css/tokens": ">=13"
+  peerDependenciesMeta:
+    "@spectrum-css/helptext":
+      optional: true
+    "@spectrum-css/progresscircle":
+      optional: true
+  checksum: e7a08186ba50d61bd6f30578f9e0bbcab1fd4f088762724d683e63078cd68afc9dda437e23f6029e04e69a58f61ceaca2280d9e130f10eb236a7f75367db89d7
   languageName: node
   linkType: hard
 
