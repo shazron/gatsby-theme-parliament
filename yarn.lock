@@ -58,7 +58,7 @@ __metadata:
     "@spectrum-css/badge": ^1.0.20
     "@spectrum-css/breadcrumb": 5.0.0
     "@spectrum-css/button": 6.0.13
-    "@spectrum-css/card": 5.0.0
+    "@spectrum-css/card": 7.0.1
     "@spectrum-css/checkbox": 3.1.3
     "@spectrum-css/contextualhelp": ^2.0.35
     "@spectrum-css/dialog": 6.0.15
@@ -5089,18 +5089,30 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@spectrum-css/card@npm:5.0.0":
-  version: 5.0.0
-  resolution: "@spectrum-css/card@npm:5.0.0"
+"@spectrum-css/card@npm:7.0.1":
+  version: 7.0.1
+  resolution: "@spectrum-css/card@npm:7.0.1"
   peerDependencies:
-    "@spectrum-css/actionbutton": ^1.1.13
-    "@spectrum-css/asset": ^3.0.20
-    "@spectrum-css/checkbox": ^3.1.1
-    "@spectrum-css/icon": ^3.0.21
-    "@spectrum-css/quickaction": ^3.0.24
-    "@spectrum-css/typography": ^4.0.18
-    "@spectrum-css/vars": ^8.0.0
-  checksum: 54b70a1427540288ffed46f0e407646db92e810fe2755cc15e0359c7dfc3536799cbfae9d843e0a5262fa6d41418927a17c088d72a45eddf1d267ac77f41805e
+    "@spectrum-css/actionbutton": ">=5"
+    "@spectrum-css/asset": ">=3"
+    "@spectrum-css/icon": ">=4"
+    "@spectrum-css/quickaction": ">=3"
+    "@spectrum-css/tokens": ">=13"
+    "@spectrum-css/typography": ">=4 <=5"
+  peerDependenciesMeta:
+    "@spectrum-css/actionbutton":
+      optional: true
+    "@spectrum-css/asset":
+      optional: true
+    "@spectrum-css/checkbox":
+      optional: true
+    "@spectrum-css/icon":
+      optional: true
+    "@spectrum-css/quickaction":
+      optional: true
+    "@spectrum-css/typography":
+      optional: true
+  checksum: 064237e26fbc4c0b1deb54faed75d6612e3f26dd14dbae2787b521ee7a31232ed438a1c5daa30ef0d3491447fa8b5596a5e01472e00d15b169c47ace556c179e
   languageName: node
   linkType: hard
 
